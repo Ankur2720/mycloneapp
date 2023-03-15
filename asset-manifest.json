@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mycloneapp/static/css/main.ae71d505.css",
+    "main.js": "/mycloneapp/static/js/main.8d8e1e20.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mycloneapp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/mycloneapp/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/mycloneapp/index.html",
+    "main.ae71d505.css.map": "/mycloneapp/static/css/main.ae71d505.css.map",
+    "main.8d8e1e20.js.map": "/mycloneapp/static/js/main.8d8e1e20.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mycloneapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae71d505.css",
+    "static/js/main.8d8e1e20.js"
+  ]
+}
